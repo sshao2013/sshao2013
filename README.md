@@ -4,6 +4,8 @@
 - 🔭 I’m currently working as a research associate on [Health Research From Home](https://blogs.manchester.ac.uk/centre-for-epidemiology/2024/04/12/hrfh/) at University of Manchester
 
 - 📫 How to reach me **shuai.shao@manchester.ac.uk**
+  
+- 📖 I'm interested in Activity Recognition, Wearable Computing, Ubiquitous Computing, Time Series, Deep Learning and its wide applications and theories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
